@@ -1,5 +1,5 @@
 
-##BUILD OUTPUT DESCRIPTION
+## BUILD OUTPUT DESCRIPTION
 
 
 When you build an Java application project that has a main class, the IDE
@@ -32,3 +32,5 @@ class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
 <img src="Expense_Tracker_Main_Screen.PNG">
+<br>
+<img src="Expense_Tracker_View_Screen .PNG">
